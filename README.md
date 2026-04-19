@@ -11,7 +11,7 @@ KiraDDoS is the best DDoS Tool, use it properly beacuse it's very powerful and i
 
 # INSTALLATION
 
-git clone https://github.com/Mixyy2000/KiraDDoS.git
+git clone https://github.com/Mixyy2000/KiraDDoS
 
 cd KiraDDoS
 
