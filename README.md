@@ -1,7 +1,7 @@
 <img width="1101" height="301" alt="Kira Image" src="https://github.com/user-attachments/assets/a3266bf4-34fb-4b8d-b41e-9c0e1bcf8bad" />
 
 # KiraDDoS
-Kira DDoS is the best DDoS tool, use it properly beacuse it's very powerful and illegal using on servers you don't own
+Kira DDoS is the best DDoS Tool, use it properly beacuse it's very powerful and illegal using on servers you don't own
 
 # YOU WILL NEED
 
