@@ -23,6 +23,8 @@ git clone https://github.com/Mixyy2000/KiraDDoS
 
 cd KiraDDoS
 
+cd KiraDDoS(yes,type x2)
+
 ls
 
 python3 KiraDDoS.py
