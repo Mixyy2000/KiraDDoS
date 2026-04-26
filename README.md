@@ -17,6 +17,16 @@ cd KiraDDoS
 
 python KiraDDoS.py
 
+# LINUX INSTALLATION
+
+git clone https://github.com/Mixyy2000/KiraDDoS
+
+cd KiraDDoS
+
+ls
+
+python3 KiraDDoS.py
+
 # ⚠️ WARNING / DISCLAIMER
 
 This project is intended for **educational and testing purposes only**.
