@@ -1,5 +1,5 @@
 # KiraDDoS
-Kira DDoS is a very powerful Http Flood tool,use it properly.
+KiraDDoS is a very powerful Http Flood tool,use it properly.
 
 # You Will Need
 -python with pip(python version must be 3.x.x)
